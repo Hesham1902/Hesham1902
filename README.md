@@ -8,7 +8,7 @@ Enthusiastic software developer. My journey is marked by a commitment to excelle
 - 🌱 Exploring the realms of [New Technology/Concept]
 - 💡 Open to collaborative projects in E-Commerce and beyond
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesham1902)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tech Stack
