@@ -8,9 +8,7 @@ Enthusiastic software developer. My journey is marked by a commitment to excelle
 - 🌱 Exploring the realms of [New Technology/Concept]
 - 💡 Open to collaborative projects in E-Commerce and beyond
 
-<a href="https://github.com/Hesham1902/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hesham1902&layout=pie&langs_count=8&card_width=320" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham1902&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 
