@@ -8,6 +8,9 @@ Enthusiastic software developer. My journey is marked by a commitment to excelle
 - 🌱 Exploring the realms of [New Technology/Concept]
 - 💡 Open to collaborative projects in E-Commerce and beyond
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesham1902)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tech Stack
 
 - **Languages:** JavaScript (Node.js), HTML, CSS
@@ -27,8 +30,7 @@ Enthusiastic software developer. My journey is marked by a commitment to excelle
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Portfolio](Your Portfolio Website Link)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hesham1902)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hesham-maher-9232a9202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hesham.maher.74/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hesham1902)  
+
 
 Feel free to explore the E-Commerce API project and let's connect! 🌐
