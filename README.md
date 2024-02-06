@@ -17,9 +17,9 @@ Enthusiastic software developer. My journey is marked by a commitment to excelle
 
 ## Tech Stack
 
-- **Languages:** JavaScript (Node.js), HTML, CSS
+- **Languages:** JavaScript (Node.js), HTML, CSS, python, c++
 - **Frameworks:** Express, Mongoose
-- **Database:** MongoDB
+- **Database:** MongoDB,IndexedDB,,Firebase, MySQL, PostgreSQL
 - **Tools:** Postman, Multer, Stripe
 
 ## Key Features
