@@ -6,19 +6,25 @@
 
 ### [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,django,git,graphql,mongodb,mysql,postgres,redis,sequelize)](https://skillicons.dev)
 
-- 🔭 I’m currently working on Chat app with [websocket- Nodejs - express]. 
 
 
 
-
-<div align='center'>
+<p align='center'>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham1902)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</p>
+
+
 
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,twitter" />
+  <a href="https://github.com/Hesham1902">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+    <a href="www.linkedin.com/in/hesham-maher-9232a9202">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://twitter.com/Hesham1902">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
