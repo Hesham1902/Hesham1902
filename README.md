@@ -8,15 +8,10 @@
 
 
 
-
-<p align='center'>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham1902)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
-
-
-
-
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/Hesham1902">
     <img src="https://skillicons.dev/icons?i=github" />
