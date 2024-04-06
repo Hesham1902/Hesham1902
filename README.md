@@ -17,7 +17,6 @@
     <a href="www.linkedin.com/in/hesham-maher-9232a9202">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <a href="https://twitter.com/Hesham1902">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
